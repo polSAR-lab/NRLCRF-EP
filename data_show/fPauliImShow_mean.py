@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import f_typical_visualize_yip
 
+
 def f_pauli_im_show_mean(data, n=2):
     type_val = 'mean'
     siz = np.shape(data)
