@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def f_typical_visualize_yip(img, type_val):
     img[np.isnan(img)] = 0
     vector_img = img.flatten()
