@@ -31,3 +31,4 @@ def f_pauli_im_show_mean(data, n=2):
     plt.title('input data')
     plt.show()
 
+

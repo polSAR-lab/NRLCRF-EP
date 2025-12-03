@@ -14,4 +14,3 @@ def fampShow_mean(data, n=2):
     plt.imshow(data, cmap='gray')
     # plt.title('input data')
     plt.show()
-    
